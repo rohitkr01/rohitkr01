@@ -17,12 +17,12 @@
 <p align="left">
 <a href="https://twitter.com/rohit_kr_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohit_kr_01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohit-kumar-9ab2c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-kumar-9ab2c" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucfw6qct1hgksigxswmh57rw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfw6qct1hgksigxswmh57rw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCFw6QcT1hGKSigxswmh57Rw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCFw6QcT1hGKSigxswmh57Rw" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rohitkr01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rohitkr01" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rohitkr01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rohitkr01" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rohitkr01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rohitkr01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rohitkr01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohitkr01" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rohit09619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohit09619" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rohitkr01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohitkr01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
