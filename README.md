@@ -43,11 +43,17 @@
 <a href="" target="_blank" rel="noreferrer"> <img  alt="GitHub" width="30px" src="https://pngimg.com/uploads/github/github_PNG28.png"/> </a>
 </p>
 
-## GitHub Analysis
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitkr01&theme=dark&show_icons=true&locale=en" alt="rohitkr01" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitkr01&theme=dark&show_icons=true&locale=en&layout=compact" alt="rohitkr01" /></p>
+<h2 align="center">Github Statistics </h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkr01&theme=dark" alt="rohitkr01" /></p>
+|💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
+|-----------------------------------|----------------------------------|
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rohitkr01&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true)](https://github.com/rohitkr01)|[![Rohit's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=rohitkr01&theme=dark&hide_border=true)](https://github.com/rohitkr01)
+|[![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitkr01&theme=dark&show_icons=true&hide_border=true)](https://github.com/rohitkr01)
+</p>
+
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=rohitkr01&theme=react-dark">
+</p>
 
